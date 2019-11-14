@@ -1,2 +1,2 @@
 # entropy-incremental-cppclient
-Entropy Incremental Game - C++ Client
+Entropy Incremental Game - C-- Client
